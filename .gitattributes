@@ -1,0 +1,7 @@
+*.py -text whitespace=trailing-space,space-before-tab,cr-at-eol
+COPYING -text whitespace=trailing-space,space-before-tab,cr-at-eol
+*.png binary
+*.md text eol=lf
+*.json text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf

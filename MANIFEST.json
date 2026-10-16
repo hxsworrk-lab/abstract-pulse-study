@@ -55,6 +55,11 @@
       "file": ".gitignore",
       "bytes": 23,
       "sha256": "6e60228348c9b707264b2ca4d3c10cf5101df655333964a3db21ae659b6835a1"
+    },
+    {
+      "file": ".gitattributes",
+      "bytes": 230,
+      "sha256": "e99e45b64b82096742c09f9968d5c2353fe6f1d40058dd67201411f5264ce789"
     }
   ]
 }
