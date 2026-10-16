@@ -1,0 +1,60 @@
+{
+  "kind": "self_initiated_nonmedical_blender_study",
+  "blender_tested": "5.2.1 LTS",
+  "source_executed_sha256": "17500f62908eb6da54e6542a2ec2dd0d0893921a5c2d0d3cb64e0ad0067859a9",
+  "script_seconds_one_local_run": 18.511,
+  "encoded_animation_included": false,
+  "native_binary_included": false,
+  "files": [
+    {
+      "file": "renders/phase-001.png",
+      "bytes": 544636,
+      "sha256": "3fe2abd6df6e696e694ce018d30a0cb346697df0fdad8f7156659bf1df5a785a",
+      "rgba_sha256": "eb909bb101746cf0c1c0fac0ed7cc776b0c5dd3134011ba77d1dbc0030432dc8",
+      "dimensions": [
+        640,
+        640
+      ]
+    },
+    {
+      "file": "renders/phase-025.png",
+      "bytes": 543546,
+      "sha256": "4335e5bc140afc9cd9efb9615929fe700287ba6cef468f860816b6a2958abbf6",
+      "rgba_sha256": "afac1bf3fa957383a50bbc8492723e27db28b0a22b81ed35892462724020294c",
+      "dimensions": [
+        640,
+        640
+      ]
+    },
+    {
+      "file": "renders/phase-049.png",
+      "bytes": 540956,
+      "sha256": "971e549bf5922d3c438219be64895ef1ee4096d527e38bd18e24819c7e2e7561",
+      "rgba_sha256": "d697cfe5f8fe85d4da5c1df591a3ac75bf43889cf8552a0f360754a017f118ef",
+      "dimensions": [
+        640,
+        640
+      ]
+    },
+    {
+      "file": "rebuild_abstract_study.py",
+      "bytes": 10819,
+      "sha256": "17500f62908eb6da54e6542a2ec2dd0d0893921a5c2d0d3cb64e0ad0067859a9"
+    },
+    {
+      "file": "README.md",
+      "bytes": 2598,
+      "sha256": "0977a9d8d699d31a4ab18bf744c163f9901ecab6651e7d5657aa58fed5e4b5a3"
+    },
+    {
+      "file": "COPYING",
+      "bytes": 35821,
+      "sha256": "0b383d5a63da644f628d99c33976ea6487ed89aaa59f0b3257992deac1171e6b"
+    },
+    {
+      "file": ".gitignore",
+      "bytes": 23,
+      "sha256": "6e60228348c9b707264b2ca4d3c10cf5101df655333964a3db21ae659b6835a1"
+    }
+  ]
+}
